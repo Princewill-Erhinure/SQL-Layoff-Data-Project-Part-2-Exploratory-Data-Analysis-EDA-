@@ -4,7 +4,7 @@ This is **Part 2** of my layoff data analysis project. After cleaning and prepar
 
 ---
 
-## 🔍 Objective
+##  Objective
 
 To analyze cleaned layoff data using pure SQL and identify:
 - Yearly and monthly layoff trends
@@ -14,7 +14,7 @@ To analyze cleaned layoff data using pure SQL and identify:
 
 ---
 
-## 🧠 Key Insights
+##  Key Insights
 
 ### 1. Mass Layoffs Were Not Random  
 Layoffs peaked sharply in **2023**, reflecting wider economic pressures and industry corrections.
@@ -25,7 +25,7 @@ Several companies laid off **100% of their staff**, even after raising millions 
 ### 3. The US Led in Layoffs — But Not Always Proportionally  
 While the **United States** had the highest total layoffs, startups in other regions experienced deeper internal cuts when measured by **percentage laid off**.
 
-### 4. 📌 Layoffs by Company Stage — A Surprising Breakdown  
+### 4.  Layoffs by Company Stage — A Surprising Breakdown  
 Contrary to expectations, **Post-IPO companies** had the highest number of layoffs, followed by **acquired firms**, and **Series C/D startups**. Even **Seed** and **Series A** companies were affected, showing layoffs impacted all stages.
 
 ### 5. Rolling Monthly Layoff Trend  
@@ -40,7 +40,7 @@ By ranking companies using SQL window functions, the top 5 most affected compani
 
 ---
 
-## 🛠️ SQL Concepts Used
+##  SQL Concepts Used
 
 - Common Table Expressions (CTEs)
 - Aggregation (`SUM`, `AVG`)
@@ -66,5 +66,5 @@ By ranking companies using SQL window functions, the top 5 most affected compani
 
 ---
 
-## 🤝 Let's Connect
+
 
